@@ -19,7 +19,7 @@ function AppHeader() {
     <div className="container-fluid">
       <div className="header">
         <div className="logo">
-          <i className="fas fa-bolt"></i>
+          <i className="fas fa-desktop"></i>
           <a href="http://google.com">ANT-D-WEB</a>
         </div>
         <div className="mobileHidden">
